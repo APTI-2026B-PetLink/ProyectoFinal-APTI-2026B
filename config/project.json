@@ -1,0 +1,26 @@
+{
+  "proyecto": "PetLink — Nuevo Hogar",
+  "version": "0.1.0",
+  "estandar": "ISO/IEC 29110",
+  "equipo": "IDGS91",
+  "institucion": "Universidad Tecnológica de la Costa",
+  "stack": {
+    "frontend": "Angular",
+    "backend": "PHP",
+    "database": "PostgreSQL",
+    "versionControl": "Git/GitHub",
+    "projectManagement": "Trello"
+  },
+  "ramas": {
+    "produccion": "main",
+    "desarrollo": "develop",
+    "prefijosValidos": ["feature/", "fix/", "docs/", "hotfix/"]
+  },
+  "directorios": {
+    "documentacion": "/docs",
+    "frontend": "/src/frontend",
+    "backend": "/src/backend",
+    "baseDatos": "/src/database",
+    "configuracion": "/config"
+  }
+}
