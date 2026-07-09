@@ -1,0 +1,1 @@
+Simulación de pipeline CI - valida build de backend y frontend antes de merge a main
